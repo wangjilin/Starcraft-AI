@@ -7,6 +7,8 @@ As AlphaStar from Google Deepmind is very powerful today, I am also very interes
 
 In this project, instead of using Reinforcement learning, I using a simple CNN model on the visualized position of exsisting buildings and units to decide what is the next step.
 
+The python API for Starcraft2 is from https://github.com/Dentosal/python-sc2.
+
 Best score to defeat hard computer... Still a long way to beat a real human...
 
 Jilin
