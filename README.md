@@ -9,6 +9,8 @@ In this project, instead of using Reinforcement learning, I using a simple CNN m
 
 The python API for Starcraft2 is from https://github.com/Dentosal/python-sc2.
 
+Special thanks to 'sandtex' for his instruction!
+
 Best score to defeat hard computer... Still a long way to beat a real human...
 
 Jilin
